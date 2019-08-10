@@ -7,3 +7,4 @@ Procfile
 .DS_Store
 static/
 yarn.lock
+.idea
